@@ -42,6 +42,5 @@ The file organizes material type by Layers.
 * Apply wood glue to both sides of **Base 2**
 * Stack and clamp **Base 1**, **Base 2**, and **Base 3** (sets in about 15 min)
 
-  <img src="/img/build02-01.jpg" alt="build02-01.jpg" width="600">
-
-  <img src="/img/build02-02.jpg" alt="build02-02.jpg" width="600">
+  <img src="/img/build02-01.jpg" alt="build02-01.jpg" width="300">
+  <img src="/img/build02-02.jpg" alt="build02-02.jpg" width="300">
