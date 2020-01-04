@@ -1,14 +1,38 @@
 # Arc Lamp Build Guide
+
 <img src="/img/build000.jpg" alt="build000.jpg" width="600">
+
+Design reverse engineered from the original [Heng Balance Lamp on Kickstarter](https://www.kickstarter.com/projects/1458079400/heng-balance-lamp-a-unique-lamp-with-switch-in-mid)
+
+Laser cut design based on original files by [JustAddSharks on Instructables](https://www.instructables.com/id/DIY-Heng-Lamp/ )
 
 ---
 ### Table of Contents
-* [Documentation](#Documentation)
-* [Hardware](#Hardware)
+* [Materials](#Materials)
+* [Laser Cut Parts](#Laser-Cut-Parts)
+* [Build Lamp Base](#Build-Lamp-Base)
 ---
 
-## Documentation
-* [Build Guide](/docs/build-guide.md)
+## Materials
+See [Bill of Materials](https://docs.google.com/spreadsheets/d/1lHaNQ_by_0eQF1vNenDIT_l0-mevZIj3L4IccVn72g8/edit#gid=0) for parts to purchase
 
-## Hardware
-* [Bill of Materials](https://docs.google.com/spreadsheets/d/1lHaNQ_by_0eQF1vNenDIT_l0-mevZIj3L4IccVn72g8/edit#gid=0)
+Other materials needed include:
+* Wood Glue
+* Paper Towels
+* 4 to 8 mini wood clamps
+* Sandpaper (80 and 120 grit)
+* 1" wide Painters Tape
+* 22 AWG Solid Core wire in Red, Black, White
+* Hot Glue Gun
+* Soldering Iron
+
+
+## Laser Cut Parts
+See Adobe Illustrator file [`arc-lamp-laser-cut.ai`](\hardware\mech\arc-lamp-laser-cut.ai)
+
+The file organizes material type by Layers.
+
+* ¼” parts take about 20 min
+* ⅛” parts take about 10 min
+
+<img src="/img/build001.jpg" alt="build001.jpg" width="400">
