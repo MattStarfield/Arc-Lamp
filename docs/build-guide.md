@@ -1,8 +1,7 @@
-# Project Name
-A brief description of the project's function and purpose
+# Arc Lamp Build Guide
+<img src="/img/build000.jpg" alt="build000.jpg" width="600">
 
-<img src="/img/!main.png" alt="!main.png" width="600">
-
+---
 ### Table of Contents
 * [Documentation](#Documentation)
 * [Hardware](#Hardware)
