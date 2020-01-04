@@ -35,4 +35,4 @@ The file organizes material type by Layers.
 * ¼” parts take about 20 min
 * ⅛” parts take about 10 min
 
-<img src="/img/build001.jpg" alt="build001.jpg" width="400">
+<img src="/img/build001.jpg" alt="build001.jpg" width="600">
