@@ -1,6 +1,6 @@
 # Arc Lamp Build Guide
 
-<img src="/img/build000.jpg" alt="build000.jpg" width="600">
+<img src="/img/build00-00.jpg" alt="build00-00.jpg" width="600">
 
 Design reverse engineered from the original [Heng Balance Lamp on Kickstarter](https://www.kickstarter.com/projects/1458079400/heng-balance-lamp-a-unique-lamp-with-switch-in-mid)
 
@@ -26,7 +26,6 @@ Other materials needed include:
 * Hot Glue Gun
 * Soldering Iron
 
-
 ## Laser Cut Parts
 See Adobe Illustrator file [`arc-lamp-laser-cut.ai`](\hardware\mech\arc-lamp-laser-cut.ai)
 
@@ -35,4 +34,14 @@ The file organizes material type by Layers.
 * ¼” parts take about 20 min
 * ⅛” parts take about 10 min
 
-<img src="/img/build001.jpg" alt="build001.jpg" width="600">
+  <img src="/img/build01-01.jpg" alt="build01-01.jpg" width="600">
+
+  <img src="/img/build01-02.jpg" alt="build01-02.jpg" width="600">
+
+## Build Lamp Base
+* Apply wood glue to both sides of **Base 2**
+* Stack and clamp **Base 1**, **Base 2**, and **Base 3** (sets in about 15 min)
+
+  <img src="/img/build02-01.jpg" alt="build02-01.jpg" width="600">
+
+  <img src="/img/build02-02.jpg" alt="build02-02.jpg" width="600">
