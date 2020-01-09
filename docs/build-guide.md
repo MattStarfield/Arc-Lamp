@@ -40,7 +40,7 @@ The file organizes material type by Layers.
 
 ## Build Lamp Base
 * Apply wood glue to both sides of **Base 2**
-* Stack and clamp **Base 1**, **Base 2**, and **Base 3** (sets in about 15 min)
+* Stack and clamp **Base 1**, **Base 2**, and **Base 3** (sets in about 5 min)
 
   <img src="/img/build02-01.jpg" alt="build02-01.jpg" width="300">
   <img src="/img/build02-02.jpg" alt="build02-02.jpg" width="300">
@@ -50,6 +50,6 @@ The file organizes material type by Layers.
   <img src="/img/build02-03.jpg" alt="build02-03.jpg" width="300">
 
 * Apply wood glue to top of **Base 3**
-* Stack and clamp **Base 4** to seal BBs in base (sets in about 15 min)
+* Stack and clamp **Base 4** to seal BBs in base (sets in about 5 min)
 
   <img src="/img/build02-04.jpg" alt="build02-04.jpg" width="300">
