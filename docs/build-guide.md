@@ -38,7 +38,8 @@ The file organizes material type by Layers.
 
   <img src="/img/build01-02.jpg" alt="build01-02.jpg" width="600">
 
-## Build Lamp Base
+## Glue Laser Cut Stack-ups
+### Glue Base Stack-up
 * Apply wood glue to both sides of **Base 2**
 * Stack and clamp **Base 1**, **Base 2**, and **Base 3** (sets in about 5 min)
 
@@ -53,3 +54,65 @@ The file organizes material type by Layers.
 * Stack and clamp **Base 4** to seal BBs in base (sets in about 5 min)
 
   <img src="/img/build02-04.jpg" alt="build02-04.jpg" width="300">
+
+
+### Glue Mid Stack-up
+* Stack Mid 1 to 3 with wood glue. Clamp for 5 min until set.
+* Stack Mid 5 to 7 with wood glue. Clamp for 5 min until set.
+* Sandwich Mid 4 between the previous 2 stacks with wood glue. Clamp for 5 min until set.
+
+### Glue Arc Stack-up
+* Flip Arc 1 so the “clean side” is facing out. Stack Arc 1 and Arc 2 with wood glue. Clamp for 5 min until set
+  * **Note**: Align the _outer edges_. There is an intentional lip along the inner edges.
+  * Carefully wipe away excess glue along the inner edges to make them as smooth as possible. We will sand the outer edges for smoothness, but the inner edges are more difficult to sand.
+
+* Flip Arc 7 so the “clean side” is facing out. Stack Arc 6 and Arc 7 with wood glue. Clamp for 5 min until set
+  * **Note**: Align the _outer edges_. There is an intentional lip along the inner edges.
+  * Carefully wipe away excess glue along the inner edges to make them as smooth as possible. We will sand the outer edges for smoothness, but the inner edges are more difficult to sand.
+
+* Stack Arc 3 to 5 with a generous amount of wood glue between them to allow it to stay “wet” longer.
+* Add the Arc 1+2 and Arc 6+7 stacks to either side of the Arc 3,4,5 stack with wood glue.
+* Align and clamp the entire arc stack together for 10 min until set.
+* When dry, the outer edge of the Arc stack may be slightly offset and/or have some excess glue dried along the edge. We will even this out by sanding it down later.
+
+### Glue Top Stack-up
+* Stack Top 1-B and 2-B with wood glue. Clamp for 5 min until set.
+* Insert 0.5 x 0.25 Ring Magnet into cavity of Top 2-B.
+* Stack Top 3-B on 2-B to capture magnet with wood glue. Clamp for 5 min until set.
+* Stack Top 1-A to 3-A with wood glue. Clamp for 5 min until set.
+* Stack Top 1-C to 3-C with wood glue. Clamp for 5 min until set.
+
+### Combine Mid and Top Stack-up
+* Place the Arc stack on top of the Mid stack. Be very careful to align the arc face with the power jack and fader placement on the Mid stack.
+* Apply wood glue to the top of the Mid stack along the area outside of the Arc stack (where the Top-A and Top-C stacks will be going).
+* Carefully place the Top-A and Top-C stacks on top of the Mid stack on either side of the Arc stack. Be sure to align the outer edges of the Top and Mid stacks and maintain the parallel tracks for the Arc stack. Do not clamp - clamping will likely misalign the stacks. Simply wait about 10 min for wood glue to dry.
+
+## Drill, Sand, and Finish Wood
+* Using Drill Press, drill ½” hole for the power jack
+* Using Drill press widen 5/16” hole for potentiometer
+* Sand all exterior surfaces of base, mid, top and arc. Power sander to start, manual sanding to finish. After sanding, wipe down all pieces with a damp paper towel to remove dust. Let wood dry for 10 min.
+* _Optional_: After wood is dry, rub exterior surfaces with mineral oil to accentuate the wood grain.
+
+## Install Electronics
+* Cut length of 29.75” LED strip. Cut bits of silicone sheath from either end and solder 6” lengths of 22 AWG wire to both ends:
+  * (2) Black - LED GND
+  * (2) White - LED PWR
+* Cut silicone sheath away from exact center. ball capture will be placed here later.
+* Remove Potentiometer from enclosure. Desolder connector socket from dimmer PCB. Replace with 6” lengths of 22 AWG solid core wire:
+  * (2) Black - LED GND
+  * (2) White - LED PWR
+  * (1) Red - Vin 12V
+  * (1) Black - Vin GND
+* Solder 6” of Red 22 AWG solid core wire to the C and  NO contacts on the limit switch.
+* Solder 6” lengths of 22 AWG solid core wire to Power Jack
+  * (1) Black - Vin GND (leaf pin)
+  * (1) Red - Vin 12V (center pin)
+* Hot Glue 1/16” string capture base piece into center of LED strip. Insert LED strip into Arc. Start by placing center cutout at Arc exact center and fit LEDs into Arc from center to either end.
+* Install limit switch into fixture on Arc stack. Tighten nuts. Hot glue switch terminals and nuts in place.
+* Insert Power jack into  Mid stack. Screw on Hex Nut. Cover terminals in Hot Glue.
+* Reinforce Pot connections with Hot Glue. Reinforce wires on Dimmer PCB with Hot Glue. Install Pot, secure dimmer PCB with Hot glue.
+
+## Install Diffuser Strip
+* Cut length of diffuser strip 29” x 15/16”
+
+... in progress ...
