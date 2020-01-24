@@ -76,20 +76,22 @@ The file organizes material type by Layers.
 * When dry, the outer edge of the Arc stack may be slightly offset and/or have some excess glue dried along the edge. We will even this out by sanding it down later.
 
 ### Glue Top Stack-up
-* Stack Top 1-B and 2-B with wood glue. Clamp for 5 min until set.
-* Insert 0.5 x 0.25 Ring Magnet into cavity of Top 2-B.
-* Stack Top 3-B on 2-B to capture magnet with wood glue. Clamp for 5 min until set.
-* Stack Top 1-A to 3-A with wood glue. Clamp for 5 min until set.
-* Stack Top 1-C to 3-C with wood glue. Clamp for 5 min until set.
+* Stack Top 1-B to 3-B with wood glue. Clamp for 5 min until set.
+* Insert [0.5 x 0.25 Ring Magnet](https://www.kjmagnetics.com/proddetail.asp?prod=R841) into cavity of Top 3-B.
+* Stack Top 4-B on 3-B with wood glue to capture magnet. Clamp for 5 min until set.
+* Stack Top 1-A to 4-A with wood glue. Clamp for 5 min until set.
+* Stack Top 1-C to 4-C with wood glue. Clamp for 5 min until set.
 
 ### Combine Mid and Top Stack-up
+* Ensure top of layer Mid 7 is flat (no bumps from dried glue) - sand down if necessary.
 * Place the Arc stack on top of the Mid stack. Be very careful to align the arc face with the power jack and fader placement on the Mid stack.
 * Apply wood glue to the top of the Mid stack along the area outside of the Arc stack (where the Top-A and Top-C stacks will be going).
 * Carefully place the Top-A and Top-C stacks on top of the Mid stack on either side of the Arc stack. Be sure to align the outer edges of the Top and Mid stacks and maintain the parallel tracks for the Arc stack. Do not clamp - clamping will likely misalign the stacks. Simply wait about 10 min for wood glue to dry.
+* **Note**: Do not glue Top-B Stack yet. This will happen after electronics are installed.
 
 ## Drill, Sand, and Finish Wood
-* Using Drill Press, drill ½” hole for the power jack
-* Using Drill press widen 5/16” hole for potentiometer
+* Using drill press, drill 1/2” hole for the power jack
+* Using drill press widen 5/16” hole for potentiometer
 * Sand all exterior surfaces of base, mid, top and arc. Power sander to start, manual sanding to finish. After sanding, wipe down all pieces with a damp paper towel to remove dust. Let wood dry for 10 min.
 * _Optional_: After wood is dry, rub exterior surfaces with mineral oil to accentuate the wood grain.
 
