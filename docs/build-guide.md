@@ -39,7 +39,7 @@ The file organizes material type by Layers.
   <img src="/img/build01-02.jpg" alt="build01-02.jpg" width="600">
 
 ## Glue Laser Cut Stack-ups
-### Glue Base Stack-up
+### Glue Bottom Base Stack-up
 * Apply wood glue to both sides of **Base 2**
 * Stack and clamp **Base 1**, **Base 2**, and **Base 3** (sets in about 5 min)
 
@@ -56,7 +56,7 @@ The file organizes material type by Layers.
   <img src="/img/build02-04.jpg" alt="build02-04.jpg" width="300">
 
 
-### Glue Mid Stack-up
+### Glue Mid Base Stack-up
 * Stack Mid 1 to 3 with wood glue. Clamp for 5 min until set.
 * Stack Mid 5 to 7 with wood glue. Clamp for 5 min until set.
 * Sandwich Mid 4 between the previous 2 stacks with wood glue. Clamp for 5 min until set.
@@ -75,7 +75,7 @@ The file organizes material type by Layers.
 * Align and clamp the entire arc stack together for 10 min until set.
 * When dry, the outer edge of the Arc stack may be slightly offset and/or have some excess glue dried along the edge. We will even this out by sanding it down later.
 
-### Glue Top Stack-up
+### Glue Top Base Stack-up
 * Stack Top 1-B to 3-B with wood glue. Clamp for 5 min until set.
 * Insert [0.5 x 0.25 Ring Magnet](https://www.kjmagnetics.com/proddetail.asp?prod=R841) into cavity of Top 3-B.
 * Stack Top 4-B on 3-B with wood glue to capture magnet. Clamp for 5 min until set.
@@ -90,9 +90,11 @@ The file organizes material type by Layers.
 * **Note**: Do not glue Top-B Stack yet. This will happen after electronics are installed.
 
 ## Drill, Sand, and Finish Wood
-* Using drill press, drill 1/2” hole for the power jack
-* Using drill press widen 5/16” hole for potentiometer
-* Sand all exterior surfaces of base, mid, top and arc. Power sander to start, manual sanding to finish. After sanding, wipe down all pieces with a damp paper towel to remove dust. Let wood dry for 10 min.
+* Using drill press, drill 1/2” hole for the power jack in Base
+* Using drill press widen 5/16” hole for potentiometer in Base
+* Sand all exterior surfaces of base, mid, top and arc. Power sander to start, manual sanding to finish.
+  * **Note**: This is not a trivial step. Sanding the laser cut burn marks on exterior may take a couple of hours of manual work.
+  * After sanding, wipe down all pieces with a damp paper towel to remove dust. Let wood dry for 10 min.
 * _Optional_: After wood is dry, rub exterior surfaces with mineral oil to accentuate the wood grain.
 
 ## Install Electronics
