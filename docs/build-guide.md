@@ -103,25 +103,33 @@ The file organizes material type by Layers.
 * _Optional_: After wood is dry, rub exterior surfaces with mineral oil to accentuate the wood grain.
 
 ## Install Electronics
-* Cut length of 29.75” LED strip. Cut bits of silicone sheath from either end and solder 6” lengths of 22 AWG Stranded wire to both ends:
+#### LED Strip
+* Cut length of 29.75” LED strip
+* Cut bits of silicone sheath from either end and solder 6” lengths of 22 AWG solid core wire to both ends. Reinforce solder joints with hot glue.
   * (2) Black - LED GND
   * (2) White - LED PWR
 * Cut silicone sheath away from exact center (14.875"). Ball capture will be placed here later.
-* Remove Potentiometer from enclosure. Desolder connector socket from dimmer PCB. Replace with 6” lengths of 22 AWG solid core wire:
+* Super Glue 1/16” thick acrylic string capture base piece (larger hole) into center of LED strip.
+* Insert LED strip into Arc. Start by placing center cutout at Arc exact center and fit LEDs into Arc from center to either end.
+* Reinforce interface of LED sheath and Arc on either side of central string capture with hot glue to prevent LEDs from pulling away from arc body.
+
+#### Dimmer Potentiometer
+* Remove Potentiometer from enclosure. Desolder connector socket from dimmer PCB. Replace with 6” lengths of 22 AWG solid core wire. Reinforce solder joints with hot glue.
   * (2) Black - LED GND
   * (2) White - LED PWR
   * (1) Red - Vin 12V
   * (1) Black - Vin GND
-* Solder 6” of Red 22 AWG solid core wire to the C and  NO contacts on the limit switch.
-* Solder 6” lengths of 22 AWG solid core wire to Power Jack
+* Solder 6” of Red 22 AWG solid core wire to the C and  NO contacts on the limit switch. Reinforce solder joints with hot glue.
+* Solder 6” lengths of 22 AWG solid core wire to Power Jack. Reinforce / isolate solder joints with hot glue.
   * (1) Black - Vin GND (leaf pin)
   * (1) Red - Vin 12V (center pin)
-* Hot Glue 1/16” string capture base piece into center of LED strip. Insert LED strip into Arc. Start by placing center cutout at Arc exact center and fit LEDs into Arc from center to either end.
+
 * Install limit switch into fixture on Arc stack. Tighten nuts. Hot glue switch terminals and nuts in place.
 * Insert Power jack into  Mid stack. Screw on Hex Nut. Cover terminals in Hot Glue.
-* Reinforce Pot connections with Hot Glue. Reinforce wires on Dimmer PCB with Hot Glue. Install Pot, secure dimmer PCB with Hot glue.
+* Install Pot with wires facing "up", secure dimmer PCB with Hot glue.
 
 ## Install Diffuser Strip
-* Cut length of diffuser strip 29” x 15/16”
+* Cut (2) lengths of diffuser strip 24” x 23 mm (width is very precise)
+* Fit strips around inner Arc, meeting at the center of the LED strip
 
 ... in progress ...
