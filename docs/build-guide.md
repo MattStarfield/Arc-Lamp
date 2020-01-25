@@ -93,15 +93,20 @@ The file organizes material type by Layers.
 * Using drill press, drill 1/2” hole for the power jack in Base
 * Using drill press widen 5/16” hole for potentiometer in Base
 * Sand all exterior surfaces of base, mid, top and arc. Power sander to start, manual sanding to finish.
-  * **Note**: This is not a trivial step. Sanding the laser cut burn marks on exterior may take a couple of hours of manual work.
-  * After sanding, wipe down all pieces with a damp paper towel to remove dust. Let wood dry for 10 min.
+  * **Note**: This is not a trivial step - budget about 2 hours for sanding
+  * Rough sand the Arc edges on the Horizontal Belt Sander
+  * Rough sand the Base on the Vertical Belt Sander
+  * Sand the Arc faces and final Top piece with a Hand Power Sander
+  * Manually finish sand all pieces with 120 grit sand paper. Pay special attention to rounding the corners of the Arc.
+
+* After sanding, wipe down all pieces with a damp paper towel to remove dust. Let wood dry for 10 min.
 * _Optional_: After wood is dry, rub exterior surfaces with mineral oil to accentuate the wood grain.
 
 ## Install Electronics
-* Cut length of 29.75” LED strip. Cut bits of silicone sheath from either end and solder 6” lengths of 22 AWG wire to both ends:
+* Cut length of 29.75” LED strip. Cut bits of silicone sheath from either end and solder 6” lengths of 22 AWG Stranded wire to both ends:
   * (2) Black - LED GND
   * (2) White - LED PWR
-* Cut silicone sheath away from exact center. ball capture will be placed here later.
+* Cut silicone sheath away from exact center (14.875"). Ball capture will be placed here later.
 * Remove Potentiometer from enclosure. Desolder connector socket from dimmer PCB. Replace with 6” lengths of 22 AWG solid core wire:
   * (2) Black - LED GND
   * (2) White - LED PWR
