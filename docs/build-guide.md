@@ -132,4 +132,4 @@ The file organizes material type by Layers.
 * Cut (2) lengths of diffuser strip 24” x 23 mm (width is very precise)
 * Fit strips around inner Arc, meeting at the center of the LED strip
 
-... in progress ...
+[... in progress ...](https://photos.google.com/u/1/album/AF1QipPvCgZ2smGo4TUfmTWPi4l-RyJBR18gE8JOZjN9)
